@@ -1,4 +1,5 @@
 import React from 'react';
+import {useCalculator} from '../context/CalculatorContext'
 
 interface CalcButtonProps {
   value: string;
