@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import LandingPage from './components/LandingPage';
 import Calculator from './components/Calculator';
 import { CalculatorProvider } from './context/CalculatorContext';
